@@ -1,4 +1,7 @@
 # Retail_Sales
+# Preview
+An end-to-end SQL project analyzing retail sales data to uncover insights on revenue, customer behavior, and profitability. The project demonstrates strong SQL skills through data modeling, joins, aggregations, subqueries, and ETL-style transformations, answering real business questions using structured queries.
+
 🧾 Overview
 
 This project provides an end-to-end Retail Sales Data Analysis using SQL, demonstrating how structured queries can reveal key business insights from transactional data. The dataset models a retail environment containing information about stores, customers, products, and orders — enabling exploration of sales trends, customer behavior, and profitability.
